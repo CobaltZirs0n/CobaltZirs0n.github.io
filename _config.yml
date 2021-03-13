@@ -1,11 +1,10 @@
 # Basic
-title: Vno Jekyll
-subtitle: A blog-orientation theme for Jekyll
-welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">Download the theme</a>
-description: Vno Jekyll is a port of my Ghost theme vno.
+title: CoabltZirs0n'blog
+subtitle: A man who strives to be a hacker
+description: RedTeam,Penetration testing,web secutity.
 creator: <a href="http://onev.cat">@onevcat</a>
 
-url: "http://vno.onevcat.com"
+url: "https://cobaltzirs0n.github.io/#blog"
 
 permalink: /:year/:month/:title/
 
@@ -13,7 +12,7 @@ permalink: /:year/:month/:title/
 highlighter: rouge
 
 # supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
-cover_color: red
+#cover_color: red
 
 # The blog button should not be removed.
 blog_button:
@@ -22,7 +21,7 @@ blog_button:
 
 # Navigation buttons in the front page.
 nav:
-    - {title: Projects, description: My Projects, url: 'http://project.onevcat.com'}
+    - {title: Projects, description: My Projects, url: 'https://github.com/CobaltZirs0n'}
     # - {title: Another Button, description: A button, url: 'http://example.com'}
 
 # Pagination
@@ -37,11 +36,8 @@ comment:
     
 # Social
 social:
-    weibo: onevcat
-    github: onevcat
-    twitter: onevcat
-    gplus: 107108267983477358170
-    mail: onev@onevcat.com
+    github: https://github.com/CobaltZirs0n
+    mail: Zirs0n@qq.com
 
 # Google Analytics
 ga:
